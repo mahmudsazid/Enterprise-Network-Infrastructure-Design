@@ -4,6 +4,9 @@
 This repository contains a production-grade MikroTik RouterOS configuration, fiber distribution, and centralized services designed for a small-to-medium enterprise (SME) environment.
 The configuration implements dual WAN connectivity, BGP routing, LAN segmentation, VPN services, NAT, and firewall-based traffic control.
 
+## 📷 Network Topology
+![Network Diagram](network_diagram.png)
+
 # Why Use This Solution?
 
 This design is ideal if you need a network that is:
